@@ -1,5 +1,5 @@
 -- FXVersion Version
-fx_version 'adamant'
+fx_version 'cerulean' 
 games { 'gta5' }
 
 -- Client Scripts
